@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/AutomatFinit.dir/DFA.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

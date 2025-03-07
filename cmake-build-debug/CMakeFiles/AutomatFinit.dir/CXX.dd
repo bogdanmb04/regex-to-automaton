@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/AutomatFinit.dir/main.cpp.o: dyndep
+
+build CMakeFiles/AutomatFinit.dir/Automaton.cpp.o: dyndep
+
+build CMakeFiles/AutomatFinit.dir/DFA.cpp.o: dyndep
+

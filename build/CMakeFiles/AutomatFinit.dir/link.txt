@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/AutomatFinit.dir/main.cpp.o CMakeFiles/AutomatFinit.dir/Automaton.cpp.o CMakeFiles/AutomatFinit.dir/DFA.cpp.o -o AutomatFinit

@@ -1,0 +1,14 @@
+# ninja log v6
+4	10	1733684842725938256	CMakeFiles/AutomatFinit.dir/main.cpp.o.modmap	a57c95514dda3e7b
+276	4789	1733683086308452379	CMakeFiles/AutomatFinit.dir/DFA.cpp.o	893434ddafd481c6
+4	10	1733684842725938256	CMakeFiles/AutomatFinit.dir/DFA.cpp.o.modmap	a57c95514dda3e7b
+195	3440	1733678397468920683	CMakeFiles/AutomatFinit.dir/Automaton.cpp.o	568d0dd9eef8e926
+2	47	1741342583629768811	build.ninja	162e6a1ad76b04d3
+3	268	1733683086035450983	CMakeFiles/AutomatFinit.dir/main.cpp.o.ddi	83a6fffdcbd02985
+4	10	1733684842725938256	CMakeFiles/AutomatFinit.dir/CXX.dd	a57c95514dda3e7b
+3	185	1733678397276919835	CMakeFiles/AutomatFinit.dir/Automaton.cpp.o.ddi	a4c631a7365083c5
+4	10	1733684842725938256	CMakeFiles/AutomatFinit.dir/Automaton.cpp.o.modmap	a57c95514dda3e7b
+4	226	1733683086036450988	CMakeFiles/AutomatFinit.dir/DFA.cpp.o.ddi	59dcb8f7ef512bdb
+275	5287	1733683086307452374	CMakeFiles/AutomatFinit.dir/main.cpp.o	5a235bc38f2d35e1
+4	10	1733684842725938256	/home/bogdan/Facultate/LFC/AutomatFinit/cmake-build-debug/CMakeFiles/AutomatFinit.dir/CXXModules.json	a57c95514dda3e7b
+5287	5518	1733683091319478010	AutomatFinit	8667bac2486dd604
