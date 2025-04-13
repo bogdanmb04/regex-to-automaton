@@ -1,3 +1,0 @@
-/home/bogdan/Facultate/LFC/AutomatFinit/cmake-build-debug/CMakeFiles/AutomatFinit.dir
-/home/bogdan/Facultate/LFC/AutomatFinit/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/bogdan/Facultate/LFC/AutomatFinit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
